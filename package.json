@@ -1,0 +1,17 @@
+{
+    "name": "pebble-design",
+    "main": "index.html",
+    "dependencies": {
+        "@material-ui/core": "^3.9.3",
+        "@material-ui/icons": "^3.0.2",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "typeface-roboto": "0.0.54"
+    },
+    "devDependencies": {},
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/SSHS-pebble/pebble-design.git"
+    }
+}
